@@ -1,0 +1,14 @@
+layout_spectrum: 0.7154728313907981
+typography_spectrum: 0.9170962700154632
+color:
+  brandStrength: 0.21666392125189304
+  lightness: 0.6239177130628377
+  saturation: 0.276381756644696
+  rhythmicContrast: 0.07203933014534414
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+name: Memphis4 Times
