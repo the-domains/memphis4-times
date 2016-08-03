@@ -1,4 +1,3 @@
-layout_spectrum: 0.7154728313907981
 typography_spectrum: 0.9170962700154632
 color:
   brandStrength: 0.21666392125189304
@@ -11,5 +10,7 @@ color:
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
+layout_spectrum: 0.7154728313907981
 name: Memphis4 Times
 title: The Importance of Qualification
+description: (and why you probably aren't doing it right)
