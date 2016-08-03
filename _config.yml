@@ -6,9 +6,10 @@ color:
   saturation: 0.276381756644696
   rhythmicContrast: 0.07203933014534414
   brandColors:
-    - '#FFFFFF'
-    - '#0066A4'
-    - '#B2D136'
-    - '#87B7D4'
-    - '#59585C'
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
 name: Memphis4 Times
+title: The Importance of Qualification
