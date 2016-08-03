@@ -11,6 +11,12 @@ color:
     - '#5C6B73'
     - '#253237'
 layout_spectrum: 0.7154728313907981
-name: Memphis4 Times
+author:
+  name: Marvin Sharp
+  email: marvin.sharp@memphis4.com
+  url: www.memphis4.com
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/d9a36cab-cbd5-478e-83c9-3adf1da16aad.png
+name: Memphis4
 title: The Importance of Qualification
 description: (and why you probably aren't doing it right)
